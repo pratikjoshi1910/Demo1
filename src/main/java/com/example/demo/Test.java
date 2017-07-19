@@ -4,6 +4,6 @@ public class Test {
 
 	public void test()
 	{
-				System.out.println("te");
+				System.out.println("t");
 	}
 }
