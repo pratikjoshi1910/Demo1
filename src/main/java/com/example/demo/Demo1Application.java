@@ -7,13 +7,21 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Demo1Application {
 
 	public static void main(String[] args) {
+
+
 	
-	qwerty
-		SpringApplication.run(prrdhjfhghjfdhdh.class, args);
-	
-		SpringApplication.run(pratik.class, arg);
+		SpringApplication.run(Demo1Application.class, args);
 
 
 		
 	}
+	
+	Test test = new Test(); 
+	
+	 public void test()
+	 {
+		 test.test();
+	 }
+	
+	
 }
